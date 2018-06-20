@@ -1,4 +1,4 @@
-Copyright © 1990-2001 by George Williams 
+Copyright Â© 1990-2001 by George Williams 
 
 Redistribution and use in source and binary forms, with or without 
 modification, are permitted provided that the following conditions 
