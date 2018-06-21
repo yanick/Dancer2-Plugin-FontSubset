@@ -1,4 +1,4 @@
-requires "Dancer2::Plugin" => "0";
+requires "Dancer2::Plugin" => "0.204002";
 requires "Font::TTF::Font" => "0";
 requires "Font::TTF::Scripts::Name" => "0";
 requires "List::AllUtils" => "0";
