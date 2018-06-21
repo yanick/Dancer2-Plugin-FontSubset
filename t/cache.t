@@ -3,7 +3,7 @@ package MyTest;
 use strict;
 use warnings;
 
-use Test::More;
+use Test::More tests => 8;
 use Test::Requires 'Dancer2::Plugin::Cache::CHI';
 use Test::WWW::Mechanize::PSGI;
 

@@ -207,7 +207,6 @@ sub _font_route {
 sub _generate_subfont {
     my( $self, $path, @chars ) = @_;
 
-    warn $path;
     my $f = Font::TTF::Font->open($path);
 
     my $cmap = $f->{'cmap'}->read->find_ms;
