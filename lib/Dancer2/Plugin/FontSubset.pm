@@ -210,7 +210,6 @@ sub _generate_subfont {
     my $f = Font::TTF::Font->open($path);
 
     my $cmap = $f->{'cmap'}->read->find_ms;
-    my $post = $f->{'post'}->read;
     my $subsetter = Font::TTF::Scripts::SubSetter->new;
 
     for my $char ( @chars ) {
