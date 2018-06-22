@@ -105,7 +105,7 @@ use List::AllUtils qw/ uniq /;
 use Font::TTF::Font;
 use Font::TTF::Scripts::Name;
 
-use Dancer2::Plugin;
+use Dancer2::Plugin 0.204002;
 
 has fonts_dir => (
     is => 'ro',

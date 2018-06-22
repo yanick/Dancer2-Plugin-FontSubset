@@ -4,6 +4,7 @@ Revision history for Dancer2-Plugin-FontSubset
   [ API CHANGES ]
 
   [ BUG FIXES ]
+  - Need D2 v0.204002+ for 'find_plugin'. (Mohammad S Anwar, GH#1)
 
   [ DOCUMENTATION ]
 
